@@ -26,7 +26,7 @@
     <!-- Banner with a welcome message and a call to action button -->
     <section class="banner">
         <div class="container">
-            <h2 style="color:paleblue">Welcome to Crahman FX</h2>
+            <h2>Welcome to Crahman FX</h2>
             <p>This is a website where I share my forex trading journey and knowledge with you.</p>
             <a href="about.html" class="btn">Learn More</a>
         </div>
